@@ -1,0 +1,10 @@
+  url "curl http://127.0.0.1:80"
+please how do i deactivate the apache runing on this port
+I cant see the welcome default Ngnix Server Page from my browers using url
+Command = "localhost"
+![Ngnix Status](/Images/Apache%20Virtual%20Host%20from%20brower.png)
+
+
+
+
+<span style="color:red">some ** PLease note that for the MYSQL Installation  i had perviosly installed  MYSql nd Php  on my linux pc** text</span>

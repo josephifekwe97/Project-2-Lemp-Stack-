@@ -1,0 +1,9 @@
+<span style="color:orange">**Introduction**</span>
+
+
+`sudo apt install php-fpm php-mysql`
+
+
+![Ngnix Status](/Images/InstallingPhp.png)
+
+<span style="color:red">**** php-mysql had previoly been installed before screenshot above****</span>
