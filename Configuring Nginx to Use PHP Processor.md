@@ -5,13 +5,13 @@
 `sudo chown -R $USER:$USER /var/www/projectLEMP`
 
 
-![Ngnix Status](/Images/projectLemp%20DIr.png)
+![Ngnix Status](/Project-2-Lemp-Stack-/Images/projectLemp%20DIr.png)
 
 
 `sudo nano /etc/nginx/sites-available/projectLEMP`
 
 
-![Ngnix Status](/Images/nginx%20sites-available.png)
+![Ngnix Status](/Project-2-Lemp-Stack-/Images/nginx%20sites-available.png)
 
 
 
@@ -32,18 +32,18 @@
    `sudo ln -s /etc/nginx/sites-available/projectLEMP /etc/nginx/sites-enabled/`
 
 
-   ![Ngnix Status](/Images/sitesenabled.png)
+   ![](/Project-2-Lemp-Stack-/Images/sitesenabled.png)
 
    
    `sudo nginx -t`
-    ![Ngnix Status](/Images/nginx-t.png)
+    ![Ngnix Status](/Project-2-Lemp-Stack-/Images/nginx-t.png)
 
 
 `sudo unlink /etc/nginx/sites-enabled/default`
 
 
    `sudo systemctl reload nginx`
-  ![Ngnix Status](/Images/Ngnix%20Reload.png)
+  ![Ngnix Status](/Project-2-Lemp-Stack-/Images/Ngnix%20Reload.png)
 
 
   `sudo echo 'Hello LEMP from hostname' $(curl -s http://169.254.169.254/latest/meta-data/public-hostname) 'with public IP' $(curl -s http://169.254.169.254/latest/meta-data/public-ipv4) > /var/www/projectLEMP/index.html`

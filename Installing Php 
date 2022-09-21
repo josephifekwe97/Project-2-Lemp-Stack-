@@ -4,6 +4,6 @@
 `sudo apt install php-fpm php-mysql`
 
 
-![Ngnix Status](/Images/InstallingPhp.png)
+![](/Project-2-Lemp-Stack-/Images/InstallingPhp.png)
 
 <span style="color:red">**** php-mysql had previoly been installed before screenshot above****</span>

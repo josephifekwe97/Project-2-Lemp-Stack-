@@ -7,7 +7,7 @@
 
 `sudo mysql`
 
-![Ngnix Status](/Project-2-Lemp-Stack-/Images/sudoMysql.png))             
+![Ngnix Status](/Project-2-Lemp-Stack-/Images/sudoMysql.png)             
 
 [MySql Link  for this error](https://stackoverflow.com/questions/21944936/error-1045-28000-access-denied-for-user-rootlocalhost-using-password-y)
 

@@ -1,6 +1,6 @@
 `sudo apt install mysql-server`
 
-![Ngnix Status](/Images/mysql%20install.png)
+![Ngnix Status](/Project-2-Lemp-Stack-/Images/mysql%20install.png)
 
 
 `sudo mysql`

@@ -3,6 +3,6 @@
 `sudo nano /var/www/projectLEMP/info.php`
 
 
-![Ngnix Status](/Images/infophp.png)
+![](/Project-2-Lemp-Stack-/Images/Apache%20Virtual%20Host%20from%20brower.png)
 
 

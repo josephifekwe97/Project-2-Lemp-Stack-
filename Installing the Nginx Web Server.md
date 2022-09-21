@@ -5,7 +5,7 @@
 
 `sudo systemctl status nginx`
 
-![Ngnix Status](/Images/Ngnix%20Status.png)
+![](/Project-2-Lemp-Stack-/Images/Ngnix%20Status.png)
 
 
 
