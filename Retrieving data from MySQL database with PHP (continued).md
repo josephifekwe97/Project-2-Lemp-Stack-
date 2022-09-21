@@ -7,8 +7,7 @@
 
 `sudo mysql`
 
-![Ngnix Status](/Images/sudoMysql.png)
-
+![Ngnix Status](/Project-2-Lemp-Stack-/Images/sudoMysql.png))             
 
 [MySql Link  for this error](https://stackoverflow.com/questions/21944936/error-1045-28000-access-denied-for-user-rootlocalhost-using-password-y)
 
@@ -23,7 +22,7 @@
 `mysql -u example_user -p`
 
 
-![Ngnix Status](/Images/user-p.png)
+![Ngnix Status](Project-2-Lemp-Stack-/Images/user-p.png)
 
 `mysql> SHOW DATABASES;`
 
@@ -62,4 +61,4 @@ try {
 
 
 
-![Ngnix Status](/Images/Create%20db%20and%20user.png)
+![Ngnix Status](/Project-2-Lemp-Stack-/Images/Create%20db%20and%20user.png)
